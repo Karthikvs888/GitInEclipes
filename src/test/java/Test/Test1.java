@@ -10,6 +10,7 @@ public class Test1
 	{
 		Reporter.log("GitHub",true);
 		Reporter.log("GitHub First Edit",true);
+		Reporter.log("GitHub Second Edit",true);
 	}
 
 }
