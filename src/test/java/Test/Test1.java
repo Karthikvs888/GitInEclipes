@@ -9,6 +9,7 @@ public class Test1
 	public void tc_01()
 	{
 		Reporter.log("GitHub",true);
+		Reporter.log("GitHub First Edit",true);
 	}
 
 }
